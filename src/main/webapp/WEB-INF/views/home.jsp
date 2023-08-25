@@ -22,7 +22,7 @@
 	</script>
 	 <script>
 	 $(document).ready(function(){
-		 $(".gr1").css("color", "green");
+		 $(".gr1").css("color", "red");
 	 });
 	 </script>
 </head>
