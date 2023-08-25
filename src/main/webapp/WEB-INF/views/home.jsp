@@ -23,6 +23,7 @@
 	 <script>
 	 $(document).ready(function(){
 		 $(".gr1").css("color", "green");
+		 $(".gr1").css("padding", "10px");
 	 });
 	 </script>
 </head>
