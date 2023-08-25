@@ -23,7 +23,6 @@
 	 <script>
 	 $(document).ready(function(){
 		 $(".gr1").css("color", "green");
-		// $(".gr1").css("padding", "10px");
 	 });
 	 </script>
 </head>
@@ -34,7 +33,7 @@
 
 
  
-<button id="del" class="gr1">p태그 삭제</button> &nbsp; <button id="re" class="gr1 te">p태그 복구</button> <br><br>
+<button id="del" class="gr1">p태그 삭제</button> &nbsp; <button id="re" class="gr1">p태그 복구</button> <br><br>
 <button id="cl" class="gr1">복제</button>
 
 <div>
